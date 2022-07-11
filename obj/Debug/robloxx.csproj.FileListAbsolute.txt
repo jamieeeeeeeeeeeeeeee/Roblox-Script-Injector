@@ -1,0 +1,15 @@
+C:\Users\jammi\source\repos\robloxx\bin\Debug\robloxx.exe.config
+C:\Users\jammi\source\repos\robloxx\bin\Debug\robloxx.exe
+C:\Users\jammi\source\repos\robloxx\bin\Debug\robloxx.pdb
+C:\Users\jammi\source\repos\robloxx\bin\Debug\WeAreDevs_API.dll
+C:\Users\jammi\source\repos\robloxx\obj\Debug\robloxx.csproj.AssemblyReference.cache
+C:\Users\jammi\source\repos\robloxx\obj\Debug\robloxx.csproj.SuggestedBindingRedirects.cache
+C:\Users\jammi\source\repos\robloxx\obj\Debug\robloxx.Properties.Resources.resources
+C:\Users\jammi\source\repos\robloxx\obj\Debug\robloxx.csproj.GenerateResource.cache
+C:\Users\jammi\source\repos\robloxx\obj\Debug\robloxx.csproj.CoreCompileInputs.cache
+C:\Users\jammi\source\repos\robloxx\obj\Debug\robloxx.csproj.CopyComplete
+C:\Users\jammi\source\repos\robloxx\obj\Debug\robloxx.exe
+C:\Users\jammi\source\repos\robloxx\obj\Debug\robloxx.pdb
+C:\Users\jammi\source\repos\robloxx\bin\Debug\FastColoredTextBox.dll
+C:\Users\jammi\source\repos\robloxx\bin\Debug\FastColoredTextBox.xml
+C:\Users\jammi\source\repos\robloxx\obj\Debug\robloxx.robloxx.resources
